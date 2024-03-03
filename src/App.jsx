@@ -1,6 +1,7 @@
 import Navbar from "./Components/Navbar/Navbar";
 import Hero from "./Components/Hero/Hero";
 import Programs from "./Components/Program/Programs";
+import Title from "./Components/Title/Title";
 
 export default function App() {
 
@@ -8,8 +9,10 @@ export default function App() {
     <div>
       <Navbar />
       <Hero />
-      <Programs />
-        
+      <div className="container">
+        <Title/>
+       <Programs />
+      </div> 
     </div>
    )
 }
