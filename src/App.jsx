@@ -10,7 +10,7 @@ export default function App() {
       <Navbar />
       <Hero />
       <div className="container">
-        <Title/>
+        <Title subTitle="Our PROGRAM" title="What We Offer"/>
        <Programs />
       </div> 
     </div>
