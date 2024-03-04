@@ -2,6 +2,7 @@ import Navbar from "./Components/Navbar/Navbar";
 import Hero from "./Components/Hero/Hero";
 import Programs from "./Components/Program/Programs";
 import Title from "./Components/Title/Title";
+import About from "./Components/About/About";
 
 export default function App() {
 
@@ -12,6 +13,7 @@ export default function App() {
       <div className="container">
         <Title subTitle="Our PROGRAM" title="What We Offer"/>
        <Programs />
+       <About />
       </div> 
     </div>
    )
