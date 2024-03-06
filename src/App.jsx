@@ -4,6 +4,7 @@ import Programs from "./Components/Program/Programs";
 import Title from "./Components/Title/Title";
 import About from "./Components/About/About";
 import Campus from "./Components/Campus/Campus";
+import Testimonials from "./Components/Testimonials/Testimonials";
 
 export default function App() {
 
@@ -17,6 +18,8 @@ export default function App() {
         <About />
         <Title subTitle="GALLERY" title="Campus Photos"/>
         <Campus />
+        <Title subTitle="Testimonials" title="What Student Says"/>
+        <Testimonials />
       </div> 
     </div>
    )
