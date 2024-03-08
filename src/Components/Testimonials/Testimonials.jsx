@@ -17,65 +17,69 @@ export default function Testimonials() {
                         <div className="slide">
                             <div className="user-info">
                                 <img src={user_1} alt="" />
-                            </div>
                             <div>
+                            
                                 <h3>Willian Singh</h3>
                                 <span>Edusity, Mirzapur</span>
                             </div>
-                        </div>
-                        <p>Choosing to persue my degree at Edusity was one of
+                            </div>    
+                          <p>Choosing to persue my degree at Edusity was one of
                             the best decision I've ever made. The supportive
                             community, state-of-the-art facilities, and commitment
                             to academic excellence have truly exceeded my
                             expectations.</p>
+                        </div>
                     </li>
                     <li>
                         <div className="slide">
                             <div className="user-info">
                                 <img src={user_2} alt="" />
-                            </div>
                             <div>
+                            
                                 <h3>Jon Kumar Wesley</h3>
-                                <span>Edusity, Delhi</span>
+                                <span>Edusity, Bihar</span>
                             </div>
-                        </div>
-                        <p>Choosing to persue my degree at Edusity was one of
+                            </div>    
+                          <p>Choosing to persue my degree at Edusity was one of
                             the best decision I've ever made. The supportive
                             community, state-of-the-art facilities, and commitment
                             to academic excellence have truly exceeded my
                             expectations.</p>
+                        </div>
                     </li>
                     <li>
                         <div className="slide">
                             <div className="user-info">
                                 <img src={user_3} alt="" />
-                            </div>
                             <div>
-                                <h3>Hermoine Gupta</h3>
-                                <span>Edusity, Itawa</span>
+                            
+                                <h3>Willian Singh</h3>
+                                <span>Hermoine Gupta, Mumbai</span>
                             </div>
-                        </div>
-                        <p>Choosing to persue my degree at Edusity was one of
+                            </div>    
+                          <p>Choosing to persue my degree at Edusity was one of
                             the best decision I've ever made. The supportive
                             community, state-of-the-art facilities, and commitment
                             to academic excellence have truly exceeded my
                             expectations.</p>
+                        </div>
                     </li>
                     <li>
                         <div className="slide">
                             <div className="user-info">
                                 <img src={user_4} alt="" />
-                            </div>
                             <div>
+                            
                                 <h3>Harry Puttar</h3>
                                 <span>Edusity, Punjab</span>
                             </div>
-                        </div>
-                        <p>Choosing to persue my degree at Edusity was one of
+                            </div>    
+                          <p>Choosing to persue my degree at Edusity was one of
                             the best decision I've ever made. The supportive
                             community, state-of-the-art facilities, and commitment
                             to academic excellence have truly exceeded my
                             expectations.</p>
+                        </div>
                     </li>
                 </ul>
             </div>
