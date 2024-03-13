@@ -40,8 +40,8 @@ export default function Testimonials() {
                                 <img src={user_1} alt="" />
                             <div>
                             
-                                <h3>Willian Singh</h3>
-                                <span>Edusity, Mirzapur</span>
+                                <h3>Harry Puttar</h3>
+                                <span>Edusity, Punjab</span>
                             </div>
                             </div>    
                           <p>Choosing to persue my degree at Edusity was one of
@@ -91,8 +91,8 @@ export default function Testimonials() {
                                 <img src={user_4} alt="" />
                             <div>
                             
-                                <h3>Harry Puttar</h3>
-                                <span>Edusity, Punjab</span>
+                                <h3>Draco Singh Malfoy</h3>
+                                <span>Edusity, UP</span>
                             </div>
                             </div>    
                           <p>Choosing to persue my degree at Edusity was one of
