@@ -41,10 +41,10 @@ export default function Testimonials() {
                             <div>
                             
                                 <h3>Harry Puttar</h3>
-                                <span>Edusity, Punjab</span>
+                                <span>Gurucul, Punjab</span>
                             </div>
                             </div>    
-                          <p>Choosing to persue my degree at Edusity was one of
+                          <p>Choosing to persue my degree at Gurucul was one of
                             the best decision I've ever made. The supportive
                             community, state-of-the-art facilities, and commitment
                             to academic excellence have truly exceeded my
@@ -58,10 +58,10 @@ export default function Testimonials() {
                             <div>
                             
                                 <h3>Jon Kumar Wesley</h3>
-                                <span>Edusity, Bihar</span>
+                                <span>Gurucul, Bihar</span>
                             </div>
                             </div>    
-                          <p>Choosing to persue my degree at Edusity was one of
+                          <p>Choosing to persue my degree at Gurucul was one of
                             the best decision I've ever made. The supportive
                             community, state-of-the-art facilities, and commitment
                             to academic excellence have truly exceeded my
@@ -74,11 +74,11 @@ export default function Testimonials() {
                                 <img src={user_3} alt="" />
                             <div>
                             
-                                <h3>Willian Singh</h3>
-                                <span>Hermoine Gupta, Mumbai</span>
+                                <h3>Hermoine Gupta</h3>
+                                <span>Gurucul, Mumbai</span>
                             </div>
                             </div>    
-                          <p>Choosing to persue my degree at Edusity was one of
+                          <p>Choosing to persue my degree at Gurucul was one of
                             the best decision I've ever made. The supportive
                             community, state-of-the-art facilities, and commitment
                             to academic excellence have truly exceeded my
@@ -92,10 +92,10 @@ export default function Testimonials() {
                             <div>
                             
                                 <h3>Draco Singh Malfoy</h3>
-                                <span>Edusity, UP</span>
+                                <span>Gurucul, UP</span>
                             </div>
                             </div>    
-                          <p>Choosing to persue my degree at Edusity was one of
+                          <p>Choosing to persue my degree at Gurucul was one of
                             the best decision I've ever made. The supportive
                             community, state-of-the-art facilities, and commitment
                             to academic excellence have truly exceeded my

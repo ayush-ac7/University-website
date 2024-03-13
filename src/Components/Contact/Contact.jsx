@@ -45,7 +45,7 @@ export default function Contact() {
           <ul>
             <li><img src={mail_icon} alt=""/>Contact@ayush_ac7</li>
             <li><img src={phone_icon} alt=""/> +91 999-999-9999</li>
-            <li><img src={location_icon} alt=""/>Chinkpokli Nagar, Cambridge<br/> United States</li>
+            <li><img src={location_icon} alt=""/>Chinkpokli Nagar, Bombay<br/> NomansLand</li>
           </ul>
        </div>
         <div className="contact-col">
