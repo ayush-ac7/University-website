@@ -12,6 +12,18 @@
 .gallery img {
     width: 23%;
     height: 20vw;
-    border-radius: 10px;
-    
+    border-radius: 10px;  
 }
+
+/*--------media queries------*/
+
+@media (max-width:800px) {
+    .gallery {
+        flex-wrap: wrap;
+    }
+    .gallery img {
+        width: 49%;
+        margin-bottom: 40px;
+    }
+}
+

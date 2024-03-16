@@ -45,5 +45,15 @@
     outline: 0;
     margin-top: 5px;
     resize: none;
+}
 
+/*------------media queries-------*/
+
+@media (max-width:700px) {
+    .contact {
+        display: block;
+    }
+    .contact-col {
+        padding: 20px;
+    }
 }
