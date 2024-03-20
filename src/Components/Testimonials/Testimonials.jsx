@@ -9,8 +9,7 @@ import user_4 from "../../assets/user-4.png"
 
 
 
-export default function Testimonials() {
-    // const Testimonials = () => {
+const Testimonials = () => {
 
         const slider = useRef();
         let tx = 0;
@@ -20,18 +19,21 @@ export default function Testimonials() {
               if(tx > -50) {
                   tx -= 25;
               }
-              slider.current.style.tranform = `translateX(${tx}%)`
+              slider.current.style.transform = `translateX(${tx}%)`
       }
   
       const slideBackward = ()=> {
-  
+            if(tx < 0) {
+               tx += 25;
+             }
+            slider.current.style.transform = `translateX(${tx}%)`
       }
     
 
     return (
         <div className="testimonials">
-            <img src={back_icon} alt="" className="back-btn" />
-            <img src={next_icon} alt="" className="next-btn" />
+            <img src={next_icon} alt="" className="next-btn" onClick={slideForward} />
+            <img src={back_icon} alt="" className="back-btn" onClick={slideBackward} />
             <div className="slider">
                 <ul ref={slider}>
                     <li>
@@ -107,3 +109,5 @@ export default function Testimonials() {
         </div>
     )
 }
+
+export default Testimonials;
