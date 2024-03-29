@@ -43,7 +43,7 @@ export default function Contact() {
             important to us as we strive to provide exceptional service to our
             university community.</p>
           <ul>
-            <li><img src={mail_icon} alt=""/>Contact@ayush_ac7</li>
+            <li><img src={mail_icon} alt=""/>Contact :<a href="https://mail.google.com/mail/u/0/#inbox?compose=new">ayushchauhan212@gmail.com</a></li>
             <li><img src={phone_icon} alt=""/> +91 999-999-9999</li>
             <li><img src={location_icon} alt=""/>Chinkpokli Nagar, Bombay<br/> NomansLand</li>
           </ul>
