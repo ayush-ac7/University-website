@@ -56,4 +56,8 @@
     .contact-col {
         padding: 20px;
     }
+    .contact-mail {
+        margin-top: 14px;
+        margin-left: -41px;
+    }
 }
