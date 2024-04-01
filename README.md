@@ -13,7 +13,7 @@ Key Features:
 Technologies Used:
 * React.js: Front-end development library for building dynamic user interfaces.
 
-* CSS Frameworks: Utilizing CSS frameworks like Bootstrap or Material-UI for styling and layout consistency.
+* CSS Frameworks: Utilizing CSS frameworks like Material-UI for styling and layout consistency.
 
 * Git and GitHub: Version control and collaboration using Git and hosting the project repository on GitHub.
 
@@ -21,7 +21,7 @@ Development Process:
 
 * Planning and Design: Analyzing requirements, creating wireframes, and designing the overall website structure and layout.
 
-* Component Development: Implementing reusable React components for various sections of the website such as header, footer, navigation, etc.
+* Component Development: Implementing reusable React components for various sections of the website such as header, navigation, titles, buttons etc.
 
 * Styling and Responsiveness: Styling the website using CSS frameworks and ensuring responsiveness across different screen sizes.
 
